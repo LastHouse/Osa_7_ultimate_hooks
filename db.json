@@ -7,6 +7,46 @@
     {
       "content": "paras feature ikinä <3",
       "id": 2
+    },
+    {
+      "content": "Onnistuukohan tää",
+      "id": 3
+    },
+    {
+      "content": "Onnistuukohan tää",
+      "id": 4
+    },
+    {
+      "content": "ou jee",
+      "id": 5
+    },
+    {
+      "content": "hello",
+      "id": 6
+    },
+    {
+      "content": "Joko nyt?",
+      "id": 7
+    },
+    {
+      "content": "ss",
+      "id": 8
+    },
+    {
+      "content": "Jippii!",
+      "id": 9
+    },
+    {
+      "content": "Jippii!",
+      "id": 10
+    },
+    {
+      "content": "Jippii!",
+      "id": 11
+    },
+    {
+      "content": "Ou Jee!",
+      "id": 12
     }
   ],
   "persons": [
@@ -14,6 +54,16 @@
       "name": "mluukkai",
       "number": "040-5483923",
       "id": 1
+    },
+    {
+      "name": "Jimmy Jones",
+      "number": "09-786543",
+      "id": 2
+    },
+    {
+      "name": "James",
+      "number": "99-98754",
+      "id": 3
     }
   ]
 }
